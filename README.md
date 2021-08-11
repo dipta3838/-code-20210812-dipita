@@ -1,8 +1,13 @@
 # -code-20210812-dipita
 
-step1: npm init
-step2: npm install
-step3: node index.js
+Step1: npm init
+
+
+Step2: npm install
+
+
+Step3: node index.js
+
 
 response : you will get the array output as required format. 
 
