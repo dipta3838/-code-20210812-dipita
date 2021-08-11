@@ -51,6 +51,7 @@ arr.forEach(element => {
     
 //push values to empty array
     arr1.push({
+        gender: gender,
         bmi: bmi, 
         bmicategory:  bmicategory,
         healthrisk: healthrisk
