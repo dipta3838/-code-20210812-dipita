@@ -10,7 +10,7 @@ arr1= [];
 
 arr.forEach(element => {
     
-    var gender = Number(element.Gender);
+    var gender = element.Gender;
     var height =  Number(element.HeightCm);
     height = height/100;
     var weight =  Number(element.WeightKg);
